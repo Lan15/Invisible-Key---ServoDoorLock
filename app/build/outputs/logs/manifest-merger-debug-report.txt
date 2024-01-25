@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cb91cd380e5fc6698183072fd29bac3b\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\940c2dbbd1f846833d987b737f192fdc\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cf0f69324af8b9b912dc528fbba95991\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6c080b20f38f709cd9a9db222bf2cd2d\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\86ace7a2cca5e07734674afe326c85c3\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\5bb4f4f984559d921caa8c4762bd77ed\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\eed50965a3fc7f695bb8c1245a17dfb6\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\721aa5812a19263d7ade49914ad0997d\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:5:22-67
+application
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cb91cd380e5fc6698183072fd29bac3b\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cb91cd380e5fc6698183072fd29bac3b\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\940c2dbbd1f846833d987b737f192fdc\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\940c2dbbd1f846833d987b737f192fdc\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cf0f69324af8b9b912dc528fbba95991\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cf0f69324af8b9b912dc528fbba95991\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6c080b20f38f709cd9a9db222bf2cd2d\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6c080b20f38f709cd9a9db222bf2cd2d\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\86ace7a2cca5e07734674afe326c85c3\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\86ace7a2cca5e07734674afe326c85c3\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\5bb4f4f984559d921caa8c4762bd77ed\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\5bb4f4f984559d921caa8c4762bd77ed\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\eed50965a3fc7f695bb8c1245a17dfb6\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\eed50965a3fc7f695bb8c1245a17dfb6\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\721aa5812a19263d7ade49914ad0997d\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\721aa5812a19263d7ade49914ad0997d\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.philipgo.servodoorlock.MainActivity
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:screenOrientation
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:13:48-86
+	android:name
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cb91cd380e5fc6698183072fd29bac3b\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cb91cd380e5fc6698183072fd29bac3b\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\940c2dbbd1f846833d987b737f192fdc\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\940c2dbbd1f846833d987b737f192fdc\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cf0f69324af8b9b912dc528fbba95991\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\cf0f69324af8b9b912dc528fbba95991\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6c080b20f38f709cd9a9db222bf2cd2d\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6c080b20f38f709cd9a9db222bf2cd2d\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\86ace7a2cca5e07734674afe326c85c3\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\86ace7a2cca5e07734674afe326c85c3\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\5bb4f4f984559d921caa8c4762bd77ed\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\5bb4f4f984559d921caa8c4762bd77ed\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\eed50965a3fc7f695bb8c1245a17dfb6\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\eed50965a3fc7f695bb8c1245a17dfb6\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\721aa5812a19263d7ade49914ad0997d\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\721aa5812a19263d7ade49914ad0997d\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Mohan Balaji\.gradle\caches\transforms-2\files-2.1\6d12a52361d16f1f97441871c88fe06a\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android Studio Project File\ServoDoorLock\app\src\main\AndroidManifest.xml
